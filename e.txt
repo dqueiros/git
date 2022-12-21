@@ -1,0 +1,1 @@
+Testado o git client Git-Cola
